@@ -1,0 +1,3 @@
+Untuk copy kolom pada file 1 & 2 namun nama tak berurutan
+=VLOOKUP(A2;'[DataPesertaDidik.xlsx]Sheet1'!$A$2:$B$100;2;FALSE)
+
